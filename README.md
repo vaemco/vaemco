@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Valentin</h1>
+<h1 align="left">Hi there 👋, I'm Valentin</h1>
 
 ###
 
-<h3 align="center">Aspiring AI Research Engineer | Fascinated by AI's potential in Science & Climate</h3>
+<h3 align="left">Aspiring AI Research Engineer | Fascinated by AI's potential in Science & Climate research</h3>
 
 ###
 
