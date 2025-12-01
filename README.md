@@ -1,4 +1,5 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/><h3 align="left">I'm Valentin</h3>
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<h3 align="left">I'm Valentin</h3>
 
 <h3 align="left">Aspiring AI Research Engineer | Fascinated by AI's potential in Science & Climate research</h3>
 
