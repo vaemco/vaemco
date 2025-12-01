@@ -1,5 +1,5 @@
-<h1 align="left">Hi there 👋, I'm Valentin</h1>
-
+<h1 align="left">Hi there 👋</h1>
+<h3 align="left">I'm Valentin</h3>
 ###
 
 <h3 align="left">Aspiring AI Research Engineer | Fascinated by AI's potential in Science & Climate research</h3>
