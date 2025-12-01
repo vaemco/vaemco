@@ -1,66 +1,25 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-<h3 align="left">I'm Valentin</h3>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<h3 align="left">Aspiring AI Research Engineer | Fascinated by AI's potential in Science & Climate research</h3>
+**Aspiring Data Scientist & AI Research Engineer**
 
-###
+I am a self-taught developer exploring the intersection of Data Science, AI, and Climate Research. My goal is to combine analytical rigor with modern machine learning techniques.
 
-<p align="left">I'm a 100% self-taught developer. I went from zero to building AI tools solely through documentation and passion.</p>
+While I have built a strong conceptual understanding of ML architectures, I currently utilize AI agents to accelerate my prototyping workflow. This allows me to dissect complex problems and learn the implementation details by doing.
 
-###
+### Focus & Learning
 
-<h3 align="left">I’m currently working on:</h3>
+- **Data Science:** Analyzing complex datasets and finding patterns using statistical methods.
+- **Machine Learning:** Studying the internal mechanics of Neural Networks and Deep Learning architectures.
+- **Methodology:** Moving from theoretical understanding to writing efficient algorithms from scratch.
 
-###
+### Current Projects
 
-<p align="left">End-to-end Medical Image Classification (Brain Tumor Detection) using PyTorch & Explainable AI (XAI).</p>
+- **Medical Image Classification:** Developing a Brain Tumor Detection model using PyTorch with a focus on Explainable AI (XAI).
 
-###
+### Background
 
-<h3 align="left">I’m currently learning:</h3>
+Outside of code, I am a **Windsurf Photographer**. Dealing with thousands of high-speed action shots has sparked my deep interest in Computer Vision and efficient Data Management. I view photography as a data source that is waiting to be analyzed and organized by intelligent systems.
 
-###
+### Technologies
 
-<p align="left">Advanced Deep Learning Architectures (Transformers, GANs), Data Structures & Algorithms, and Clean Code principles.</p>
-
-###
-
-<h3 align="left">Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h3 align="left">Frameworks, Platforms & Libraries</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">Editors</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
+Python (Pandas, NumPy, Scikit-learn) • PyTorch • Docker • Git
