@@ -1,10 +1,10 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-**Aspiring Data Scientist & AI Research Engineer**
+**Aspiring ML Engineer & Applied AI Researcher**
 
-I am a self-taught developer exploring the intersection of Data Science, AI, and Climate Research. My goal is to combine analytical rigor with modern machine learning techniques.
+I am a self-taught developer exploring the exploring the intersection of Machine Learning, Computer Vision, and applied research. My goal is to combine analytical rigor with modern machine learning techniques.
 
-While I have built a strong conceptual understanding of ML architectures, I currently utilize AI agents to accelerate my prototyping workflow. This allows me to dissect complex problems and learn the implementation details by doing.
+While I have built a solid conceptual understanding of ML architectures, I leverage modern tooling to accelerate experimentation, while focusing on understanding and implementing core ML concepts in depth. This allows me to dissect complex problems and learn the implementation details by doing.
 
 ### Focus & Learning
 
