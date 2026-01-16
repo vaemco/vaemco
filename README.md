@@ -28,4 +28,5 @@ Outside of my technical studies, I am a Windsurf and Wildlife Photographer. Capt
 In Data Science and Computer Vision, success depends on the ability to isolate the relevant signal from the noise. I apply the same precision I use behind the lens to my work with data—focusing on data quality, structural integrity, and the extraction of meaningful information. My background in photography is the foundation of my passion for visual data analysis.
 
 **Contact**
+
 [LinkedIn](https://www.linkedin.com/in/valentin-emser-2731ab262/) • [Email](mailto:hello@vaem.dev) • [Portfolio](https://vaem.dev)
