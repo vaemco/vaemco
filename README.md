@@ -15,7 +15,9 @@ My current path involves dissecting complex architectures and rebuilding them fr
 
 **Current Projects**
 
-**Medical Image Classification** Developing a Brain Tumor Detection model using PyTorch. I am using this project to deepen my expertise in image data preprocessing and the application of XAI methods to improve diagnostic reliability.
+**Medical Image Classification** 
+
+Developing a Brain Tumor Detection model using PyTorch. I am using this project to deepen my expertise in image data preprocessing and the application of XAI methods to improve diagnostic reliability.
 
 **Precision & Perspective**
 
