@@ -26,4 +26,4 @@ Outside of coding, I am a Sport and Wildlife Photographer. Capturing high-speed 
 
 
 ### Technologies
-Python (Pandas, NumPy, Scikit-learn, PyTorch) • Git • Kali Linux • Docker • Cloudflare
+Python (Pandas, NumPy, Scikit-learn, PyTorch) • Git • Kali Linux • Docker
